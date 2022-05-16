@@ -1,0 +1,2 @@
+wire.c:11:6:writereg	24	static
+wire.c:20:9:readreg	24	static

@@ -1,0 +1,2 @@
+hil.c:11:6:HIL_Transmit	24	static
+hil.c:19:6:HIL_Transmit_Gyro	48	static

@@ -1,0 +1,6 @@
+RW_Driver.c:21:6:RW_Driver_Init	24	static
+RW_Driver.c:36:9:RW_Driver_ReadSolicitude	32	static
+RW_Driver.c:80:6:RW_Driver_WriteSolicitude	24	static
+RW_Driver.c:132:6:RW_Diver_Start	24	static
+RW_Driver.c:162:6:RW_Diver_Stop	16	static
+RW_Driver.c:179:6:RW_Driver_SetPowerMode	32	static

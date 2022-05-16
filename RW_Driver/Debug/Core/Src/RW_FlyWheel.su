@@ -1,0 +1,5 @@
+RW_FlyWheel.c:23:6:Configure_High_Output	24	static
+RW_FlyWheel.c:43:6:FlyWheel_Init	24	static
+RW_FlyWheel.c:58:6:FlyWheel_StartPWM	16	static
+RW_FlyWheel.c:72:6:FlyWheel_StopPWM	16	static
+RW_FlyWheel.c:87:6:FlyWheel_MoveMotor	16	static

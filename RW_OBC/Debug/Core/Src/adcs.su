@@ -1,0 +1,7 @@
+adcs.c:11:17:ADCS_RPY2Quaternion	256	static
+adcs.c:21:22:ADCS_RPY2RotationMatrix	264	static
+adcs.c:51:17:ADCS_RotationMatrix2Quaternion	160	static
+adcs.c:75:6:Quaternion_Set	48	static
+adcs.c:84:6:Rotation_Matrix_Type_Set	80	static
+adcs.c:98:6:Quaternion_Get	24	static
+adcs.c:107:6:Rotation_Matrix_Type_Get	24	static
